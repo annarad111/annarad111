@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radulescu Ana-Maria</h1>
 <h3 align="center">A passionate fullstack developer from Romania, Bucharest</h3>
 
-- 🔭 I’m currently working on [IdeaLoop](https://github.com/annarad111/IdeaLoop)
+- 🔭 I’m currently working on [StormRefuge](https://github.com/annarad111/StormRefuge)
 
 - 🌱 I’m currently learning **React, Redux, Security, ASP .NET**
 
